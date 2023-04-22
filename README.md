@@ -4,4 +4,4 @@ https://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@github.com/abhinavdwivedilko16/
 
 
 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
-https://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@github.com/abhinavdwivedilko16/GemstonePricePrediction.git
+
