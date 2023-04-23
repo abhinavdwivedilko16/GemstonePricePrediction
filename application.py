@@ -2,8 +2,8 @@ from flask import Flask,request,render_template
 from sklearn.preprocessing import StandardScaler
 from src.pipeline.prediction_pipeline import CustomData,PredictPipeline
 
-app=Flask(__name__)
-
+application=Flask(__name__)
+app=application
 
 ## Route for a home page
 
